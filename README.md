@@ -1,2 +1,3 @@
 # Aws-project-
-Deploying website using ec2 &amp; s3 service 
+Deploying website using ec2 & s3 service ;
+
